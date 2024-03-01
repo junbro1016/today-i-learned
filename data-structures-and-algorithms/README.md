@@ -1,11 +1,11 @@
 
 
 | Contents                          | Start Date | End Date |
-|:--------------------------------- | ---------- | -------- |
+|:--------------------------------- |:---------- | -------- |
 | Python Primers                    |            |          |
 | Obejct-Oriented Programming       |            |          |
 | Algorithm Analysis                |            |          |
-| Recursion                         |            |          |
+| Recursion                         | 2024.03.02 |          |
 | Array-Based Sequences             |            |          |
 | Stacks, Queues, and Deques        |            |          |
 | Linked Lists                      |            |          |
