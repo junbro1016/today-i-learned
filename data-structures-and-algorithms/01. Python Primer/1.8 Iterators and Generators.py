@@ -43,6 +43,7 @@ this object generates the million values one at a time, and only as needed.
 '''
 a = range(10000)
 r = iter(a)
+print(type(r)) # <class 'range_iterator'>
 print(next(r)) # 0
 print(next(r)) # 1
 print(next(r)) # 2 
@@ -51,7 +52,7 @@ Generators:
 the most convenient technique for creating iterators in Python is through the use of generators. 
 A generator is implemented with a syntax that is very similar to a function, but instead of returning values, a yield statement is executed to indicate each element of the series. 
 it is illegal to combine yield and return statements in the same implementation, other than a zero-argument return statement to cause a generator to end its execution. 
-a generator cna rely on multiple yield statements in different constructs.
+a generator can rely on multiple yield statements in different constructs.
 '''
 def factors1(n):
     results = []
@@ -76,6 +77,7 @@ def factors3(n):
         yield k 
 
 a = factors2(100)
+print(type(a)) # <class 'generator'>
 print(next(a)) # 1
 print(next(a)) # 2
 
