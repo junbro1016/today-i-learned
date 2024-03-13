@@ -3,7 +3,7 @@
 | Contents                          | Start Date | End Date |
 |:--------------------------------- |:---------- | -------- |
 | Python Primers                    | 2024.03.10 |2024.03.12|
-| Obejct-Oriented Programming       | 2024.03.12 |          |
+| Object-Oriented Programming       | 2024.03.12 |          |
 | Algorithm Analysis                |            |          |
 | Recursion                         |            |          |
 | Array-Based Sequences             |            |          |
