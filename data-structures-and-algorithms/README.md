@@ -4,8 +4,8 @@
 | Object-Oriented Programming       | 2024.03.12 | 2024.03.14 |
 | Algorithm Analysis                | 2024.03.14 | 2024.03.15 |
 | Recursion                         | 2024.03.15 | 2024.03.17 |
-| Array-Based Sequences             | 2024.03.17 |            |
-| Stacks, Queues, and Deques        |            |            |
+| Array-Based Sequences             | 2024.03.17 | 2024.03.19 |
+| Stacks, Queues, and Deques        | 2024.03.19 |            |
 | Linked Lists                      |            |            |
 | Trees                             |            |            |
 | Priority Queues                   |            |            |
