@@ -5,8 +5,8 @@
 | Algorithm Analysis                | 2024.03.14 | 2024.03.15 |
 | Recursion                         | 2024.03.15 | 2024.03.17 |
 | Array-Based Sequences             | 2024.03.17 | 2024.03.19 |
-| Stacks, Queues, and Deques        | 2024.03.19 |            |
-| Linked Lists                      |            |            |
+| Stacks, Queues, and Deques        | 2024.03.19 | 2024.03.19 |
+| Linked Lists                      | 2024.03.20 |            |
 | Trees                             |            |            |
 | Priority Queues                   |            |            |
 | Maps, Hash Tables, and Skip Lists |            |            |

@@ -7,7 +7,7 @@ dequeue method of the regular queue, ADT, which is pronounced like the abbreviat
 # 6.3.1 The Deque Abstract Data Type
 '''
 D.add_first(e): Add element e to the front of deque D.
-D.add_last(e): Add element e to the back of deque D. 
+D.add_last(e): Add element e to the back of deque D.
 D.delete_first(): Remove and return the first element from deque D; an error occurs if the deque is empty. 
 D.delete_last(): Remove and return the last element from deque D; an error occurs if the deque is empty.
 D.first(): return the first element (but do not remove); an error occurs if the deque is empty.
