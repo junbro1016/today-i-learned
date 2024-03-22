@@ -11,8 +11,8 @@
 
     L.add_first(e): Insert a new element e at the front of L, returning the position of the new element. 
     L.add_last(e): Insert a new element e at the back of L, returning the position of the new element. 
-    L.add_before(e): Insert a new element e just before position p in L, returning the position of the new element
-    L.add_after(e): Insert a new element e just after position p in L, returning the psotition of the new element
+    L.add_before(p,e): Insert a new element e just before position p in L, returning the position of the new element
+    L.add_after(p,e): Insert a new element e just after position p in L, returning the position of the new element
     L.repalce(p,e): Replace the element at position p with element e, returning the element formerly at position p
     L.delete(p): Remove and return the element at position p in L, invalidating the position.
 '''

@@ -6,8 +6,8 @@
 | Recursion                         | 2024.03.15 | 2024.03.17 |
 | Array-Based Sequences             | 2024.03.17 | 2024.03.19 |
 | Stacks, Queues, and Deques        | 2024.03.19 | 2024.03.19 |
-| Linked Lists                      | 2024.03.20 |            |
-| Trees                             |            |            |
+| Linked Lists                      | 2024.03.20 | 2024.03.21 |
+| Trees                             | 2024.03.21 |            |
 | Priority Queues                   |            |            |
 | Maps, Hash Tables, and Skip Lists |            |            |
 | Search Trees                      |            |            |
